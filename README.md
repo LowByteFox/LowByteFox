@@ -5,13 +5,13 @@ I like UNIX-like systems such as `Linux`, `FreeBSD` & `OpenBSD`<br>
 I'm also a furry :3
 
 Personal Projects:
-- Proot - Protogen themed, toy operating system using the Linux kernel
-- OpenPNGStudio - Create & stream PNGTuber models with ease
-- ZeonDB - Multi-model, high performance, NoSQL database in C++.
-- Buchta - Bun-First integrable build tool for frontend
-- Bun.nvim - NeoVim plugin for Bun JavaScript runtime
-- Foxdo - Minimal `sudo` implementation
-- Foxnit - Wrapper for the `runit` init system
+- **Proot** - Protogen themed, toy operating system using the Linux kernel
+- **OpenPNGStudio** - Create & stream PNGTuber models with ease
+- **ZeonDB** - Multi-model, high performance, NoSQL database in C++
+- **Buchta** - Bun-First integrable build tool for frontend
+- **Bun.nvim** - NeoVim plugin for Bun JavaScript runtime
+- **Foxdo** - Minimal `sudo` implementation
+- **Foxnit** - Wrapper for the `runit` init system
 
 I'm currently working on `OpenPNGStudio` so in the future I can create my own PNG model and become a vtuber and stream on `Twitch`! Only if I wasn't procrastinating haha!<br>
 
