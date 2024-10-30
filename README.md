@@ -13,6 +13,6 @@ Personal Projects:
 - **Foxdo** - Minimal `sudo` implementation
 - **Foxnit** - Wrapper for the `runit` init system
 
-I'm currently working on `OpenPNGStudio` so in the future I can create my own PNG model and become a vtuber and stream on `Twitch`! Only if I wasn't procrastinating haha!<br>
+I'm currently working on `OpenPNGStudio` so in the future I can create my own PNG model, become a vtuber and stream on `Twitch`! Only if I wasn't procrastinating haha!<br>
 
 > Icon was made by [dont_jinxit](https://jinxit.carrd.co/)
