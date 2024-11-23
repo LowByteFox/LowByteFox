@@ -15,4 +15,4 @@ Personal Projects:
 
 I'm currently working on `OpenPNGStudio` so in the future I can create my own PNG model, become a vtuber and stream on `Twitch`! Only if I wasn't procrastinating haha!<br>
 
-> Icon was made by [dont_jinxit](https://jinxit.carrd.co/)
+<!-- Icon was made by [dont_jinxit](https://jinxit.carrd.co/) -->
