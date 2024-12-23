@@ -1,4 +1,4 @@
-# Hi, I'm LowByteDerg!
+# Hi, I'm LowByteShork!
 I'm an open-source programmer and I'm 19 years old. Nowadays, I mostly write code using C and sometimes write POSIX shell scripts!<br>
 You can find some of my projects here on Codeberg and the rest on my [Sourcehut](https://sr.ht/~lowbytefox/) account. Some older projects can be found on my [Github](https://github.com/LowByteFox/) account<br>
 I like UNIX-like systems such as `Linux`, `FreeBSD` & `OpenBSD`<br>
