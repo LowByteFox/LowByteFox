@@ -1,8 +1,8 @@
 # Hi, I'm NeoByteNova!
-I'm an open-source programmer and I'm 19 years old, my general username is `LowByteFox` but I change display username according to fursona I currently use (I may be trans, just don't know yet).<br>
+I'm an open-source programmer and I'm 19 years old, my general username is `LowByteFox` but I change display username according to fursona I currently use (I might be trans, but I’m still figuring it out).<br>
 Nowadays, I mostly write code using C and sometimes write POSIX shell scripts! Currently on my 7th attempt to learn Rust! No skipping this time heh<br>
 
-> No, I won't replace C with Rust, I'll make some projects in C and some others in Rust, etc
+> No, I won't replace C with Rust. I'll continue making projects in both
 
 You can find some of my projects here on Codeberg and the rest on my [Sourcehut](https://sr.ht/~lowbytefox/) account. Some older projects can be found on my [Github](https://github.com/LowByteFox/) account<br>
 I like UNIX-like systems such as `Linux`, `FreeBSD` & `OpenBSD`<br>
