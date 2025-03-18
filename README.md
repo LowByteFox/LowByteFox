@@ -1,8 +1,6 @@
 # Hi, I'm LowByteFox!
 I'm an open-source programmer and I'm 19 years old.<br>
-Nowadays, I mostly write code using C and sometimes write POSIX shell scripts! Currently on my 7th attempt to learn Rust! No skipping this time heh<br>
-
-> No, I won't replace C with Rust. I'll continue making projects in both
+Nowadays, I mostly write code using C and sometimes write POSIX shell scripts! Currently having fun with Zig<br>
 
 You can find some of my projects here on Codeberg and the rest on my [Sourcehut](https://sr.ht/~lowbytefox/) account. Some older projects can be found on my [Github](https://github.com/LowByteFox/) account<br>
 I like UNIX-like systems such as `Linux`, `FreeBSD` & `OpenBSD`<br>
