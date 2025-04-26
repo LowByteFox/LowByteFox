@@ -1,21 +1,2 @@
 # Hi, I'm LowByteFox!
-I'm an open-source programmer and I'm 19 years old.<br>
-Nowadays, I mostly write code using C and sometimes write POSIX shell scripts! Currently having fun with Zig<br>
-
-You can find some of my projects here on Codeberg and the rest on my [Sourcehut](https://sr.ht/~lowbytefox/) account. Some older projects can be found on my [Github](https://github.com/LowByteFox/) account<br>
-I like UNIX-like systems such as `Linux`, `FreeBSD` & `OpenBSD`<br>
-I'm also a furry :3
-
-Personal Projects:
-- **Proot** - Protogen themed, toy operating system using the Linux kernel
-- **OpenPNGStudio** - Create & stream PNGTuber models with ease
-- **Fin** - Simple to-do + reminder app in Perl
-- **ZeonDB** - Multi-model, high performance, NoSQL database in C++
-- **Buchta** - Bun-First integrable build tool for frontend
-- **Bun.nvim** - NeoVim plugin for Bun JavaScript runtime
-- **Foxdo** - Minimal `sudo` implementation
-- **Foxnit** - Wrapper for the `runit` init system
-
-I'm currently working on `OpenPNGStudio` so in the future I can create my own PNG model, become a vtuber and stream on `Twitch`! Only if I wasn't procrastinating haha!<br>
-
-<!-- Icon was made by [dont_jinxit](https://jinxit.carrd.co/) -->
+I’m a (primarily) system level programmer, digital artist, content creator and a vtuber. I am (as of now) writing free & open-source software (FOSS) in my free time and have been for about 4 and half years, I also happen to draw from time to time, stream on Twitch as a vtuber (PNGTuber). I also happen to be a furry. My goal is to write simple, user friendly & re-usable software to make the world a better and simpler place.
